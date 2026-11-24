@@ -1,0 +1,7 @@
+{
+  "name": "redis-vscode-session-cache",
+  "engine": "redis",
+  "slug": "redis",
+  "kind": "application",
+  "useCase": "session-cache"
+}
